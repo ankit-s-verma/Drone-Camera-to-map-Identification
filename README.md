@@ -11,6 +11,10 @@ PyTorch implementation of Drone Camera to map Identification.
 - interp1d
 - Rotation, Slerp
 
+```bash
+pip install pandas numpy torch scipy
+```
+
 ## Dataset
 The dataset is available in the below addresses:
 
