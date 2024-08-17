@@ -1,4 +1,6 @@
 # Drone-Camera-to-map-Identification
+PyTorch implementation of Drone Camera to map Identification.
+
 
 ## Dataset
 The dataset is available in the below addresses:
