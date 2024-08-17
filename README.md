@@ -1,6 +1,15 @@
 # Drone-Camera-to-map-Identification
 PyTorch implementation of Drone Camera to map Identification.
 
+## Libraries Used
+- Pandas
+- Numpy
+- Torch, Torch.nn
+- DataLoader
+- MatplotLib
+- TQDM
+- interp1d
+- Rotation, Slerp
 
 ## Dataset
 The dataset is available in the below addresses:
